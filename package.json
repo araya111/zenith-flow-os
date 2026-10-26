@@ -1,0 +1,20 @@
+{
+  "name": "zenith-flow-os",
+  "version": "1.0.0",
+  "description": "Zenith Flow: Cyber-Zen Ambient Focus & Flow OS with procedural soundscapes, interactive visuals, and gamified productivity.",
+  "scripts": {
+    "start": "npx serve -l 3000 .",
+    "dev": "npx serve -l 3000 ."
+  },
+  "keywords": [
+    "pomodoro",
+    "flow-state",
+    "ambient-sound",
+    "web-audio",
+    "productivity",
+    "focus-timer",
+    "gamification"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}

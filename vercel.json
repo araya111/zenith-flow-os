@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "zenith-flow-os",
+  "cleanUrls": true,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}
