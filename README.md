@@ -1,12 +1,16 @@
 # 🐾 ZENITH SANCTUARY: Cute Animals Edition & Flow OS v2.5
 
-An immersive, gamified web productivity cosmos and cozy animal sanctuary featuring **6 adorable focus companions**, real-time procedural Web Audio synthesis, interactive 60fps canvas visualizers, custom paw-print cursor trails, and gamified focus tools.
+[![GitHub repo](https://img.shields.io/badge/GitHub-araya111%2Fzenith--flow--os-8b5cf6?style=for-the-badge&logo=github)](https://github.com/araya111/zenith-flow-os)
+[![License: MIT](https://img.shields.io/badge/License-MIT-06b6d4?style=for-the-badge)](LICENSE)
+[![Status: Live](https://img.shields.io/badge/Status-Online%20Sanctuary-f472b6?style=for-the-badge)](https://zenith-flow-os.loca.lt)
+
+An immersive, gamified web productivity cosmos and cozy animal sanctuary featuring **7 adorable focus companions**, real-time procedural Web Audio synthesis, interactive 60fps canvas visualizers, custom paw-print cursor trails, and gamified focus tools.
 
 ---
 
 ## 🌟 What's New in the Cute Animals Edition
 
-### 🐾 1. Six Cyber-Zen Focus Familiars
+### 🐾 1. Seven Cyber-Zen Focus Familiars
 Choose your adorable companion to study and work alongside you:
 - **🐶 Hachi the Cosmic Star Shiba**: Loyal happy puppy with a celestial bandana, wagging curled tail, and boundless joyful energy.
 - **🐰 Mochi the Cosmic Moon Bunny**: Sits on a glowing crescent moon, nibbles rainbow dango, and cheers your flow state.
